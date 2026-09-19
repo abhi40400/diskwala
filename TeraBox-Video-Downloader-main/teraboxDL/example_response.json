@@ -1,0 +1,48 @@
+{
+    "errno": 0,
+    "request_id": 1783856270893724,
+    "server_time": 1783856270,
+    "cfrom_id": 0,
+    "sign": "896fc2b1578733835da9f34d67e2ef4b86db4879",
+    "list": [
+        {
+            "category": 1,
+            "fs_id": 529586288389900,
+            "isdir": 0,
+            "local_ctime": 1783685311,
+            "local_mtime": 1783685311,
+            "md5": "f061f617c69ad426278332f38603b60e",
+            "path": "/vhgfff/Download COLLECTION mp4_1715331186028.mp4",
+            "play_forbid": 0,
+            "server_ctime": 1783685313,
+            "server_filename": "Download COLLECTION mp4_1715331186028.mp4",
+            "server_mtime": 1783685313,
+            "size": 4878740,
+            "formatted_size": "4.65 MB",
+            "direct_link": "https://dl-worker.teraboxdl.site?token=hQOlh2HFgMLunmUBX990_niw-wdkS9FrrtgM-i5tzVPbaoO7J5hWgSwsn5QtnCQVFZ9EaeCP_BCRzXJKwGUW4gMHop6Pedwy1MT2dJL6go6KnUwAQSaijedOlNgX3ndmPzuXhgwqTzvUWIEQpmiEETEEWMeeplnMnGABJoi2ZZmb5c2fZC2CD1waM2jb8PnvtNwaufGgoEg9Cpoze9xCxDVyLYIJHqqMPg6UqGweDH4a3CSmwCtRyj-y51olekebVaN44E8tUJCzADXAO9ZGWFKTy89UIUQT4BVDy80VjpkiMmDD4BOb6kVL_ygRpyb-eHjAuB2yHH--FEUDdoCGu6j0ouBWwiolot6kYyk03bd-U2a7qAKbEUfoRMTmCN21j12bj7sZzJGQzdDhiKCzGKMA4nvvUBzzFIh0oFGP5mXNHk0erQsl4PRUCxZFrrrboAk_dg6GJEsvjEwiDDIBQhdWpYp5FrASOnkg10HBwVY6yQ7-32u8Q_1EgjVK3cVwL-QlWd9sZ2TvILVXJs9_8Nm32oJ-u33sbSEILb_zMIFJq8g3NdPvV2sf245yvNsP50T4_4swPFZT41JNhKaSkXvU0VgzmOD8DNzDN5OtJ14zd3BBNEIkOhB_KADjSIhk02MuRpku9-IUSVgj91_P6euWa_5tKTIwCWGkJHe85SNKxDPN38jGtK8FSsBkl4VGEK5h89w",
+            "stream_url": "https://api.teraboxdl.site/get_m3u8_stream_fast?token=hRi-r-1ThseY8LXrQ5yBt2udvEbbdEDqPNFyaaPKJNz3ynse0sQeS5OhHTRnGcJ3BAnA5HoGnNZvhttUL-mOBuUF4G0wHl_SQFK1cwCokQ4EOTZpj0lxZcAvfkip7lIOBihiNzwddu5vxZcWE7GApMiMPisi2Dmw0r4SThoQpAturqx2JPYNhoP4c_3a6nIThcE3a7sfJQrUS5CLyWzVA0ht5tHuYS1UHpNjntUftGLOenq249mwHNQfCNTnfgdtbUBITpzE-qWd0d3BljJCY5Qt6HRejicUhyDOKNREPkdFopKPqZde4F-ghk94r-3-9MW1PUVXH7kiic9yz6VfrxV3JOIcguRvqUxfzZWUJ5Ou8Fv7m24je6zRh6_-2Cq7K7xCcc7_h0xMhv27cF2TM3oQHcH4rug1EtvSqyCjWgIcmEDO1SaDUMyWOgaQC5CQ6QMispbRxZR85nXLZ2SNXPPtOhOaKtX2eptOiU7_O6IHa22vw8k5YEXi8Awevm0WvrC5o0WYR_nSVGHNqVR01UAO27rdFth1XhmTZ0_6ZHSTaakgvghsveuAVgiKDcl9P4RBEAO8HunAwIHnzmxF5VMnVYnLU-31_0G67i4-sV-kkvvw8x4mt0XV0PdCV9pwDgn9YaizVTlxEk2pTBRc-puu4u4jZFmbuB5WW-fYUXm4v_Jnbi1DKtyD0w82NPgSBg5n9Q",
+            "thumbs": {
+                "url1": "https://data.teraboxpage.com/thumbnail/f061f617c69ad426278332f38603b60e?fid=4399231951494-250528-529586288389900&time=1783854000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-0S1MvldTcFE89GFHQLuGwdB5bDY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=9083678543346190440&dp-callid=0&size=c850_u580&quality=100&vuk=-&ft=video",
+                "url2": "https://data.teraboxpage.com/thumbnail/f061f617c69ad426278332f38603b60e?fid=4399231951494-250528-529586288389900&time=1783854000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-0S1MvldTcFE89GFHQLuGwdB5bDY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=9083678543346190440&dp-callid=0&size=c850_u580&quality=100&vuk=-&ft=video",
+                "url3": "https://data.teraboxpage.com/thumbnail/f061f617c69ad426278332f38603b60e?fid=4399231951494-250528-529586288389900&time=1783854000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-0S1MvldTcFE89GFHQLuGwdB5bDY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=9083678543346190440&dp-callid=0&size=c850_u580&quality=100&vuk=-&ft=video",
+                "icon": "https://data.teraboxpage.com/thumbnail/f061f617c69ad426278332f38603b60e?fid=4399231951494-250528-529586288389900&time=1783854000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-0S1MvldTcFE89GFHQLuGwdB5bDY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=9083678543346190440&dp-callid=0&size=c850_u580&quality=100&vuk=-&ft=video"
+            },
+            "emd5": "c7b991417pca3bf88720f369ae28ff1c",
+            "duration": 30,
+            "quality": 1080,
+            "_dlink_missing": false
+        }
+    ],
+    "share_id": 50619349489,
+    "uk": 4399231951494,
+    "title": "/vhgfff/Download COLLECTION mp4_1715331186028.mp4",
+    "dir": "",
+    "page": 1,
+    "page_size": 20,
+    "has_more": false,
+    "next_page": null,
+    "lazy_folder_fetch": true,
+    "total_size_bytes": 4878740,
+    "total_size": "4.65 MB",
+    "_is_incomplete": false
+}

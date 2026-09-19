@@ -1,0 +1,7 @@
+# ffmpeg needed in system
+telethon
+requests
+python-dotenv
+fastapi
+uvicorn[standard]
+firebase-admin
